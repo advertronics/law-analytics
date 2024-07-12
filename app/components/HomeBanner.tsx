@@ -16,7 +16,7 @@ const HomeBanner = () => {
           </div>
         </div>
         <div className="banner-image">
-          <Image src="/law-analytics-banner.svg" alt="law analytics" fill style={{ left: "10%" }} />
+          <Image src="/law-analytics-banner.webp" alt="law analytics" fill style={{ left: "10%" }} />
         </div>
       </div>
     </section>

@@ -33,14 +33,14 @@ const FeaturesSection = () => {
         <div className="feature">
           <div className="feature-description">
             <h3>Practice Management</h3>
-            <p className="leading-paragraph">The firm performance can be analysed in terms of the pracice areas. Observing and analysing practice areas gives the firm an opportunity to review the current performance in order to plan the firm's future.</p>
+            <p className="leading-paragraph">The firm performance can be analysed in terms of the pracice areas. Observing and analysing practice areas gives the firm an opportunity to review the current performance in order to plan the firm&apos;s future.</p>
             <ul>
               <li>
                 <h4>
                   <img src="./list-icon.svg" alt="law analytics" />
                   File Growth Rate
                 </h4>
-                <p>Smart decisions can be deduced from the file growth, the report gives the firm's success in service provision.</p>
+                <p>Smart decisions can be deduced from the file growth, the report gives the firm&apos;s success in service provision.</p>
               </li>
               <li>
                 <h4>
@@ -65,14 +65,14 @@ const FeaturesSection = () => {
         <div className="feature">
           <div className="feature-description">
             <h3>Expenses Management</h3>
-            <p className="leading-paragraph">With the high pressure to minimize costs of the legal services, improvements and changes to the firm's cost structure and accountability is key.</p>
+            <p className="leading-paragraph">With the high pressure to minimize costs of the legal services, improvements and changes to the firm&apos;s cost structure and accountability is key.</p>
             <ul>
               <li>
                 <h4>
                   <img src="./list-icon.svg" alt="law analytics" />
                   Comparative Expense
                 </h4>
-                <p>An expense comparative report shows the effect of business decisons on the company's bottom-line. With expenditure trends the firm can identify the sectors that require more emphasis and those that require less.</p>
+                <p>An expense comparative report shows the effect of business decisons on the company&apos;s bottom-line. With expenditure trends the firm can identify the sectors that require more emphasis and those that require less.</p>
               </li>
               <li>
                 <h4>
@@ -97,21 +97,21 @@ const FeaturesSection = () => {
         <div className="feature">
           <div className="feature-description">
             <h3>Advocate Management</h3>
-            <p className="leading-paragraph">In today's age clients demand more than just billable hours as the pricing model, it is therefore necessary for a firm to get an alternative pricing method or fee arrangements. This has driven to the need of acquiring an accurate performance of a partner.</p>
+            <p className="leading-paragraph">In today&apos;s age clients demand more than just billable hours as the pricing model, it is therefore necessary for a firm to get an alternative pricing method or fee arrangements. This has driven to the need of acquiring an accurate performance of a partner.</p>
             <ul>
               <li>
                 <h4>
                   <img src="./list-icon.svg" alt="law analytics" />
                   Working Attorney Fees
                 </h4>
-                <p>The measure of attorneys as part of the general timekeeper profitaility and productivity help in achieving the value of a firm's actual profitability.</p>
+                <p>The measure of attorneys as part of the general timekeeper profitaility and productivity help in achieving the value of a firm&apos;s actual profitability.</p>
               </li>
               <li>
                 <h4>
                   <img src="./list-icon.svg" alt="law analytics" />
                   Billable Hours
                 </h4>
-                <p>The report gives a measure of an attorney's productivity. Knowing the attorney billables and comparing with the billed amounts can be used to measure the performance of an attorney and the firm in general.</p>
+                <p>The report gives a measure of an attorney&apos;s productivity. Knowing the attorney billables and comparing with the billed amounts can be used to measure the performance of an attorney and the firm in general.</p>
               </li>
             </ul>
           </div>
@@ -122,7 +122,7 @@ const FeaturesSection = () => {
         <div className="feature">
           <div className="feature-description">
             <h3>Partners Management</h3>
-            <p className="leading-paragraph">In today's legal world, there is an increased need for better metrics for the management of law firm business. 'Profits per Partner' has been the traditional measure of a firm's performance, Full-Time Equivalent (FTE) measure is also required to allocate revenue and profits.</p>
+            <p className="leading-paragraph">In today&apos;s legal world, there is an increased need for better metrics for the management of law firm business. &apos;Profits per Partner&apos; has been the traditional measure of a firm&apos;s performance, Full-Time Equivalent (FTE) measure is also required to allocate revenue and profits.</p>
             <ul>
               <li>
                 <h4>
@@ -136,7 +136,7 @@ const FeaturesSection = () => {
                   <img src="./list-icon.svg" alt="law analytics" />
                   Profit / Loss per Equity Partner
                 </h4>
-                <p>PPEP is a usefuls report in measuring the firm's performance. As there are many other metrics for firm performance PPEP still maintains as the “headline figure”. Firm ranking has always been achieved by taking the profits per Equity Partner as a factor.</p>
+                <p>PPEP is a usefuls report in measuring the firm&apos;s performance. As there are many other metrics for firm performance PPEP still maintains as the “headline figure”. Firm ranking has always been achieved by taking the profits per Equity Partner as a factor.</p>
               </li>
               <li>
                 <h4>

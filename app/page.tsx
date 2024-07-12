@@ -9,11 +9,11 @@ import Footer from "./components/Footer"
 const Home = () => {
   return (
     <>
-      {/*<HomeBanner />
+      <HomeBanner />
       <BenefitsSection />
       <FeaturesSection />
       <Summary />
-      <Footer />*/}
+      <Footer />
     </>
   )
 }

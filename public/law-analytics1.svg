@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.8959999mm"
+   height="10.344001mm"
+   viewBox="0 0 6.8959999 10.344001"
+   version="1.1"
+   id="svg4591"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Legal-Practice-Management-Software-27.svg">
+  <defs
+     id="defs4585" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-271.2539"
+     inkscape:cy="-143.30943"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4588">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.932952,-100.57205)">
+    <g
+       id="g4200"
+       transform="matrix(0.05817773,0,0,0.05817773,30.975788,-21.840517)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.35277778"
+         id="path3999"
+         d="m 259.66118,2133.7471 c -10.91142,0 -19.75556,8.8441 -19.75556,19.7556 v 39.5111 h 39.51111 v -39.5111 c 0,-10.9115 -8.84413,-19.7556 -19.75555,-19.7556 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.35277778"
+         id="path4001"
+         d="m 338.6834,2133.7471 h -34.57222 v 20.4403 c 1.47038,0.8558 2.46944,2.4295 2.46944,4.2542 0,2.7285 -2.21036,4.9388 -4.93889,4.9388 -2.72852,0 -4.93888,-2.2103 -4.93888,-4.9388 0,-1.8232 0.99906,-3.3983 2.46944,-4.2542 v -20.4403 h -24.75794 c 6.01909,4.5075 9.94127,11.6734 9.94127,19.7556 v 39.5111 h 74.08333 v -39.5111 c 0,-10.9115 -8.84413,-19.7556 -19.75555,-19.7556 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.35277778"
+         id="path4003"
+         d="m 289.29451,2197.9527 h 19.75556 v 83.9611 h -19.75556 z"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.35277778"
+         id="path4005"
+         d="m 304.11118,2113.9916 h 14.81666 v -9.8778 h -19.75555 v 29.6333 h 4.93889 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

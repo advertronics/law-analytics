@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.0288572mm"
+   height="6.9865031mm"
+   viewBox="0 0 7.0288572 6.9865031"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="tiktok.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.45344416"
+     inkscape:cx="126.80723"
+     inkscape:cy="241.48508"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-71.172916,-84.666698)">
+    <path
+       id="path4382-8"
+       style="fill:#ffffff;fill-opacity:1;stroke:#5e7897;stroke-width:0.0422032;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 74.687345,84.6878 a 3.4933925,3.4722166 0 0 0 -3.493327,3.4722 3.4933925,3.4722166 0 0 0 3.493327,3.4721 3.4933925,3.4722166 0 0 0 3.493327,-3.4721 3.4933925,3.4722166 0 0 0 -3.493327,-3.4722 z m 0.115239,1.2372 h 0.768428 a 1.0582839,1.0582839 0 0 0 0.01602,0.1932 1.0670171,1.0670171 0 0 0 0.470772,0.7008 1.0604672,1.0604672 0 0 0 0.585494,0.1757 v 0.7632 a 1.834487,1.834487 0 0 1 -1.072286,-0.3426 v 1.5606 a 1.4195747,1.4195747 0 1 1 -1.224731,-1.4066 v 0.785 a 0.65166816,0.65166816 0 1 0 0.456303,0.6216 z" />
+  </g>
+</svg>
